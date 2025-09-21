@@ -49,4 +49,5 @@ namaEvery = kultivator.every(kultivator => kultivator.nama.length > 3)
 ```
 
 ### Screenshot Hasil Program
-<img width="780" height="676" alt="Screenshot 2025-09-21 225422" src="https://github.com/user-attachments/assets/33b42bcb-bb09-4fd6-be99-58b8579bc910" />
+<img width="776" height="685" alt="image" src="https://github.com/user-attachments/assets/fc75959a-4fc5-4718-934d-ac7148837560" />
+
