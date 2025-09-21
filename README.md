@@ -4,7 +4,7 @@ Nama : Ahmad Muslihul Khair**
 
 **Kelas : B**
 
-- Membuat file javaScript dengan nama "*arrayMethods_F1D02310141.js*"
+- Membuat file javaScript dengan nama "*arrayMethods_F1D02310001.js*"
 - Membuat data array buatan sendiri minimal 10 element, misalkan saya membuat data kultivator, seperti berikut :
 
 ``` javascript 
