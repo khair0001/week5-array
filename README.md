@@ -1,8 +1,8 @@
-Nama : Ahmad Muslihul Khair**
+### **Nama : Ahmad Muslihul Khair**
 
-**NIM : F1D02310001**
+### **NIM : F1D02310001**
 
-**Kelas : B**
+### **Kelas : B**
 
 - Membuat file javaScript dengan nama "*arrayMethods_F1D02310001.js*"
 - Membuat data array buatan sendiri minimal 10 element, misalkan saya membuat data kultivator, seperti berikut :
